@@ -385,7 +385,7 @@ The ClearRoots platform is composed of five modular components that work togethe
 flowchart TD
   subgraph Field Level
     A1[Mobile App - Cooperative Staff]
-    A2[Farmer Inputs (voice, GPS, form)]
+    A2[Farmer Inputs voice, GPS, form]
     A3[Offline Data Storage]
   end
 
@@ -398,7 +398,7 @@ flowchart TD
   subgraph AI Assistance
     C1[AI Form Guidance]
     C2[Multilingual Support]
-    C3[AI Inferred Fields (satellite, GPS, tx data)]
+    C3[AI Inferred Fields satellite, GPS, tx data]
   end
 
   subgraph Document Engine
