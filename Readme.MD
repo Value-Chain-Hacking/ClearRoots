@@ -424,25 +424,112 @@ flowchart TD
 
 ```
 
-## 🤝 Partners & Stakeholders
-| Partner/Stakeholder | Role |
-|---------------------|------|
-| [Windesheim UAS]    | [Research, academic credibility, outreach] |
-| [AgUnity]           | [Technology infrastructure, mobile blockchain app] |
-| [Local Cooperatives]| [Farmer access, field data collection] |
-| [SMEs]              | [Pilot testers, funders, end-users] |
+## 🤝 Potential Strategic Partners for ClearRoots
+
+### 🌐 ESG Compliance & Sustainability Platforms
+
+- **EcoVadis**  
+  Global ESG ratings platform used by thousands of supply chain actors. Potential partner for integrating ClearRoots data into buyer ESG profiles.  
+  [https://ecovadis.com](https://ecovadis.com)
+
+- **Sedex (Supplier Ethical Data Exchange)**  
+  Platform for ethical trade data collection. Potential integration or benchmarking partner.  
+  [https://www.sedex.com](https://www.sedex.com)
 
 ---
 
-## 📆 Project Phases & Timeline
-| Phase                         | Timeframe  | Description |
-|------------------------------|------------|-------------|
-| Phase 1: Discovery & Alignment| [Month 0–2]| [Needs analysis, partnership setup] |
-| Phase 2: Prototype Build     | [Month 3–5]| [Initial tech build + AI integration] |
-| Phase 3: Pilot Implementation| [Month 6–9]| [Test with smallholder cooperatives + SME importers] |
-| Phase 4: Evaluation & Scale  | [Month 10–12]| [Impact review, iterate, seek scale-up funding] |
+### 📦 EU Importers & Ethical Coffee Buyers
 
----
+- **Ethiquable (France)**  
+  SME cooperative importer of ethically sourced goods, including coffee and cocoa. Potential pilot customer.  
+  [https://www.ethiquable.coop](https://www.ethiquable.coop)
+
+- **Original Beans (Netherlands)**  
+  Premium ethical chocolate and coffee company with direct farmer links and interest in traceability.  
+  [https://originalbeans.com](https://originalbeans.com)
+
+- **Coffee Quest (Netherlands, Uganda, Colombia)**  
+  SME specialty coffee importer already working with African producers.  
+  [https://www.thecoffeequest.com](https://www.thecoffeequest.com)
+
+
+### 🌍 Farmer-Facing Platforms and Field NGOs
+
+- **AgUnity** *(confirmed partner)*  
+  Provides mobile blockchain infrastructure for cooperatives and farmer groups in low-connectivity areas.  
+  [https://www.agunity.com](https://www.agunity.com)
+
+- **TechnoServe**  
+  Field NGO supporting smallholder coffee producers in Africa with training and market access.  
+  [https://www.technoserve.org](https://www.technoserve.org)
+
+- **Dimitra (Belgium)**  
+  Agricultural compliance platform working with coffee cooperatives in Cameroon.  
+  [https://dimitratech.com](https://dimitratech.com)
+
+
+### 🏛️ Academic & Legal Validation Partners
+
+- **Windesheim University of Applied Sciences** *(proposal host)*  
+  Potential research and validation lead, with capacity in supply chain finance and digital trust.
+
+- **SCF Nice (France)**  
+  Research cooperative focused on supply chain sustainability and financing models.  
+  [https://scfnice.org](https://scfnice.org)
+
+- **IDH - The Sustainable Trade Initiative**  
+  Based in the Netherlands, with expertise in living income benchmarks, due diligence and public-private pilot coordination.  
+  [https://www.idhsustainabletrade.com](https://www.idhsustainabletrade.com)
+
+
+### 🛡️ Insurance & Risk Management
+
+- **Global Parametrics**  
+  Develops climate and ESG-linked risk transfer mechanisms. Potential partner for data-based compliance insurance.  
+  [https://www.globalparametrics.com](https://www.globalparametrics.com)
+
+- **Zurich Insurance – Sustainable Supply Chain Initiatives**  
+  Leading ESG insurer with initiatives in sustainable sourcing and traceable risk modeling.  
+  [https://www.zurich.com](https://www.zurich.com)
+
+
+### 🏛️ Policy & Regulatory Engagement
+
+- **DG FISMA (European Commission)**  
+  Responsible for financial stability and the implementation of CSDDD. Partner for regulatory dialogue.  
+  [https://finance.ec.europa.eu](https://finance.ec.europa.eu)
+
+- **DG TRADE (European Commission)**  
+  Oversees trade compliance and bilateral agreements relevant to African supply chains.  
+  [https://policy.trade.ec.europa.eu](https://policy.trade.ec.europa.eu)
+
+- **Rainforest Alliance**  
+  Certifier and verifier in coffee, already working with compliance-ready farms.  
+  [https://www.rainforest-alliance.org](https://www.rainforest-alliance.org)
+
+## 📊 Partner Engagement Matrix (Interest vs. Influence)
+
+| Partner                             | Influence | Interest | Role / Engagement Strategy                                        |
+|-------------------------------------|-----------|----------|-------------------------------------------------------------------|
+| **AgUnity**                         | High      | High     | Core tech partner; maintain operational alignment and pilot flow |
+| **Windesheim UAS**                  | Medium    | High     | Research lead; involve in documentation logic & impact validation |
+| **SCF Nice**                        | Medium    | High     | Academic partner for financial modeling and policy design         |
+| **EcoVadis**                        | High      | Medium   | Integrate outputs into ESG scoring systems                        |
+| **Sedex**                           | Medium    | Medium   | Align data outputs to Sedex formats; consider pilot collaboration |
+| **Coffee Quest**                    | Medium    | High     | Pilot importer; onboard for document testing and feedback         |
+| **Original Beans**                 | Medium    | Medium   | Importer/roaster; showcase traceability and branding opportunity  |
+| **Ethiquable**                      | Low       | High     | Targeted onboarding for user testing and visibility               |
+| **Dimitra**                         | Medium    | Medium   | Coordinate to avoid duplication; explore data standards alignment |
+| **TechnoServe**                     | High      | High     | Field deployment partner; co-manage training and onboarding       |
+| **Rainforest Alliance**             | High      | Medium   | Use for third-party audit validation and template acceptance      |
+| **DG FISMA (European Commission)**  | High      | Medium   | Regulatory consultation and compliance validation pathway         |
+| **DG TRADE (European Commission)**  | High      | Medium   | Highlight trade friction risks; position solution for uptake      |
+| **IDH Sustainable Trade Initiative**| High      | High     | Co-create living income and compliance benchmarks                 |
+| **Global Parametrics**              | Medium    | Medium   | Develop pilot ESG insurance product                               |
+| **Zurich Insurance**                | High      | Low      | Monitor for late-stage insurance partnership potential            |
+
+
+
 
 ## 💰 Budget Overview
 | Category             | Estimated Cost | Notes |
@@ -452,7 +539,6 @@ flowchart TD
 | Platform Integration | €              | [with AgUnity or similar] |
 | Project Management   | €              | [coordination, reporting] |
 
----
 
 ## 📈 Expected Impact
 - [Increase transparency in X smallholder supply chains]
@@ -462,13 +548,69 @@ flowchart TD
 ---
 
 ## ⚠️ Risks & Mitigations
-| Risk                                | Likelihood | Mitigation Strategy |
-|-------------------------------------|------------|----------------------|
-| [AI output error/hallucination]     | [Med]      | [Use RAG + human review] |
-| [Low farmer adoption]               | [High]     | [Offline apps + training] |
-| [Regulatory ambiguity]              | [Med]      | [Policy advisor collaboration] |
 
----
+| Risk                                                                 | Likelihood | Impact  | Mitigation Strategy                                                                                 |
+|----------------------------------------------------------------------|------------|---------|------------------------------------------------------------------------------------------------------|
+| **AI-generated content may be inaccurate or non-compliant**          | Medium     | High    | AI is constrained to assistive roles only; all outputs are traceable to blockchain-verified inputs. |
+| **Farmers may lack capacity or incentive to engage**                 | High       | High    | Deploy with trusted cooperative partners; design voice-first, low-literacy, and mobile-first tools. |
+| **Documentation may not be accepted by all EU member states**        | Medium     | High    | Co-develop templates with academic and legal partners; test with customs and regulatory authorities. |
+| **Fragmentation of EU law implementation**                           | High       | Medium  | Build modular templates that adapt to national variations; engage with DG FISMA to inform policy.   |
+| **Exporters or middlemen may resist transparency**                   | Medium     | Medium  | Shift control to cooperatives; maintain access control and shared benefits from compliance access.  |
+| **Data falsification risk by users under market pressure**           | Medium     | High    | Use blockchain timestamping and cooperative-level review; flag AI-inferred fields for audit.        |
+| **Low adoption by EU importers due to inertia or compliance fatigue**| Medium     | Medium  | Partner with early-adopting SME importers and insurers; publish impact case studies to drive demand.|
+| **Insurance or risk transfer mechanisms may be slow to develop**     | Low        | Medium  | Build pilot-ready dossiers aligned to insurer data standards; use third-party certifiers initially. |
+| **Cost of onboarding and training may be underestimated**            | Medium     | Medium  | Leverage existing AgUnity and NGO infrastructure; train-the-trainer model to reduce field costs.    |
+
+```mermaid
+graph TD
+    subgraph High Impact
+        A1[AI-generated content may be inaccurate]
+        A2[Farmers may lack capacity or incentive]
+        A3[Docs not accepted by all EU member states]
+        A4[Data falsification under pressure]
+    end
+
+    subgraph Medium Impact
+        B1[Fragmentation of EU law implementation]
+        B2[Middlemen resist transparency]
+        B3[Low adoption by EU importers]
+        B4[Onboarding/training underestimated]
+    end
+
+    subgraph Low Impact
+        C1[Insurance mechanisms slow to develop]
+    end
+
+    subgraph High Likelihood
+        A2
+        A3
+        B1
+    end
+
+    subgraph Medium Likelihood
+        A1
+        A4
+        B2
+        B3
+        B4
+    end
+
+    subgraph Low Likelihood
+        C1
+    end
+
+    %% Highlighting priority zones
+    style A1 fill:#ffd1d1,stroke:#b30000,stroke-width:2px
+    style A2 fill:#ffd1d1,stroke:#b30000,stroke-width:2px
+    style A3 fill:#ffd1d1,stroke:#b30000,stroke-width:2px
+    style A4 fill:#ffd1d1,stroke:#b30000,stroke-width:2px
+    style B1 fill:#fff2cc,stroke:#e68a00,stroke-width:1.5px
+    style B2 fill:#fff2cc,stroke:#e68a00,stroke-width:1.5px
+    style B3 fill:#fff2cc,stroke:#e68a00,stroke-width:1.5px
+    style B4 fill:#fff2cc,stroke:#e68a00,stroke-width:1.5px
+    style C1 fill:#e6f2ff,stroke:#0077cc,stroke-width:1px
+
+```
 
 ## 📜 Legal & Ethical Considerations
 [Data privacy, local legal systems, informed consent, EU audit trail compliance.]
