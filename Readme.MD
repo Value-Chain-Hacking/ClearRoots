@@ -103,108 +103,7 @@ graph TD
 
 ```
 
-## 🌍 Target Audience
 
-### 🎯 Primary Audiences
-
-- **EU SME Coffee Importers (5–250 employees)**  
-  These businesses source from African cooperatives but lack legal, compliance, or ESG teams.  
-  📌 *Pain:* They must provide traceable, auditable documents or risk fines, exclusion, or reputational loss — but cannot afford complex compliance systems.  
-  ✅ *ClearRoots offers:* Low-cost, plug-and-play tools for due diligence documentation that hold up to audits and reduce operational burden.
-
-- **Smallholder Farming Cooperatives in Central Africa**  
-  Often family-run, cash-based, and informally structured, these cooperatives cannot meet the paper demands of EU law without external support.  
-  📌 *Pain:* They risk being excluded from markets simply for lacking printers, payrolls, or fluency in EU regulatory terms.  
-  ✅ *ClearRoots offers:* Multilingual, mobile-first tools that translate practice into proof — even without literacy, internet, or formal records.
-
-- **Export Agents and Middlemen**  
-  These actors control access to markets and often act as compliance enforcers, demanding documents from cooperatives.  
-  📌 *Pain:* They have no consistent format or tool to collect, verify, or transmit compliance data.  
-  ✅ *ClearRoots offers:* A common system they can use to verify and forward compliant batches without relying on informal PDFs or emails.
-
-- **Retail Coffee Brands and Roasters (SME to mid-size)**  
-  While not directly importing, these actors face pressure from consumers, investors, and regulators to demonstrate ethical sourcing.  
-  📌 *Pain:* They depend on fragmented supply chain data and lack a clear audit trail.  
-  ✅ *ClearRoots offers:* Verified, branded sustainability documentation to strengthen consumer trust and reduce ESG reporting risk.
-
-### 🧩 Secondary Audiences
-
-- **EU Institutions and Directorates (e.g., DG FISMA, DG TRADE, DG ENV)**  
-  📌 *Pain:* EU regulation is being implemented without operational clarity or field-based feedback, increasing the risk of policy failure.  
-  ✅ *ClearRoots offers:* A field-tested model for due diligence documentation, ready to inform template standardization and implementation guides.
-
-- **National Regulatory Agencies in EU Member States**  
-  📌 *Pain:* Each state interprets CSDDD/CSRD compliance differently, leading to fragmentation and enforcement inconsistency.  
-  ✅ *ClearRoots offers:* Template-aligned documents that could reduce ambiguity and lower the enforcement burden.
-
-- **Sustainability Certifiers and Auditors (e.g., Rainforest Alliance, Ecocert)**  
-  📌 *Pain:* Reviewing unstructured, unverifiable compliance data is time-consuming and inconsistent.  
-  ✅ *ClearRoots offers:* A standardized, digital dossier system that accelerates audit cycles and improves traceability confidence.
-
-- **Third-Party Logistics Providers (3PLs)**  
-  📌 *Pain:* They often move product but don’t have traceable access to origin-level compliance documents.  
-  ✅ *ClearRoots offers:* A way to integrate compliance verification into the physical movement of goods.
-
-- **Sustainability Insurers and ESG Investors**  
-  📌 *Pain:* No insurable, verifiable ESG baseline exists for smallholder sourcing.  
-  ✅ *ClearRoots offers:* Trusted data that enables compliance-backed risk products and impact-linked funding models.
-
-- **NGOs and Development Organizations**  
-  📌 *Pain:* Support smallholders on livelihoods, but lack tools to help them meet evolving legal trade standards.  
-  ✅ *ClearRoots offers:* A free or subsidized toolset they can distribute to build legal, market, and financial inclusion.
-
-- **Academic Institutions (e.g., Windesheim UAS, SCF Nice)**  
-  📌 *Pain:* Need applied research opportunities that engage EU law, supply chain digitalization, and rural equity.  
-  ✅ *ClearRoots offers:* A scalable research and impact platform with policy relevance and implementation potential.
-
-- **National Port and Customs Authorities (EU Member States)**  
-  📌 *Pain:* Tasked with verifying incoming goods meet sustainability and due diligence requirements, but face inconsistent paperwork formats, unverifiable claims, and rising audit complexity — especially for high-risk commodities like coffee, cocoa, and timber.  
-  ✅ *ClearRoots offers:* A standardized, digital compliance dossier that aligns with EU legal requirements and provides traceability from first mile to point of entry — streamlining customs review and reducing risk of wrongful clearance or delays.
-
-``` mermaid
-graph LR
-    subgraph High Influence
-        A[EU Institutions - DG FISMA, DG TRADE]
-        B[National Regulatory Agencies]
-        C[Port and Customs Authorities]
-        D[Sustainability Insurers]
-    end
-
-    subgraph Low Influence
-        E[Smallholder Farmers]
-        F[Local Cooperatives]
-        G[NGOs and Dev Orgs]
-        H[Academic Institutions]
-    end
-
-    subgraph High Interest
-        I[EU SME Importers]
-        J[Middlemen and Export Agents]
-        K[Retail Roasters and Brands]
-        L[Auditors and Certifiers]
-    end
-
-    subgraph Low Interest
-        M[Third Party Logistics Providers]
-        N[General Public]
-    end
-
-    style A fill:#ffd700
-    style B fill:#ffd700
-    style C fill:#ffd700
-    style D fill:#ffd700
-    style I fill:#90ee90
-    style J fill:#90ee90
-    style K fill:#90ee90
-    style L fill:#90ee90
-    style E fill:#87cefa
-    style F fill:#87cefa
-    style G fill:#87cefa
-    style H fill:#87cefa
-    style M fill:#d3d3d3
-    style N fill:#d3d3d3
-
-```
 
 ## 💡 Proposed Solution
 
@@ -315,6 +214,108 @@ Subsequent phases will expand to cocoa, cashew, and other regulated commodities 
 - **Legal and Academic Validation**  
   Documentation workflows and templates are validated in collaboration with legal experts and academic institutions (e.g., Windesheim UAS), ensuring alignment with member-state-level requirements and providing a basis for standardization.
 
+## 🌍 Target Audience
+
+### 🎯 Primary Audiences
+
+- **EU SME Coffee Importers (5–250 employees)**  
+  These businesses source from African cooperatives but lack legal, compliance, or ESG teams.  
+  📌 *Pain:* They must provide traceable, auditable documents or risk fines, exclusion, or reputational loss — but cannot afford complex compliance systems.  
+  ✅ *ClearRoots offers:* Low-cost, plug-and-play tools for due diligence documentation that hold up to audits and reduce operational burden.
+
+- **Smallholder Farming Cooperatives in Central Africa**  
+  Often family-run, cash-based, and informally structured, these cooperatives cannot meet the paper demands of EU law without external support.  
+  📌 *Pain:* They risk being excluded from markets simply for lacking printers, payrolls, or fluency in EU regulatory terms.  
+  ✅ *ClearRoots offers:* Multilingual, mobile-first tools that translate practice into proof — even without literacy, internet, or formal records.
+
+- **Export Agents and Middlemen**  
+  These actors control access to markets and often act as compliance enforcers, demanding documents from cooperatives.  
+  📌 *Pain:* They have no consistent format or tool to collect, verify, or transmit compliance data.  
+  ✅ *ClearRoots offers:* A common system they can use to verify and forward compliant batches without relying on informal PDFs or emails.
+
+- **Retail Coffee Brands and Roasters (SME to mid-size)**  
+  While not directly importing, these actors face pressure from consumers, investors, and regulators to demonstrate ethical sourcing.  
+  📌 *Pain:* They depend on fragmented supply chain data and lack a clear audit trail.  
+  ✅ *ClearRoots offers:* Verified, branded sustainability documentation to strengthen consumer trust and reduce ESG reporting risk.
+
+### 🧩 Secondary Audiences
+
+- **EU Institutions and Directorates (e.g., DG FISMA, DG TRADE, DG ENV)**  
+  📌 *Pain:* EU regulation is being implemented without operational clarity or field-based feedback, increasing the risk of policy failure.  
+  ✅ *ClearRoots offers:* A field-tested model for due diligence documentation, ready to inform template standardization and implementation guides.
+
+- **National Regulatory Agencies in EU Member States**  
+  📌 *Pain:* Each state interprets CSDDD/CSRD compliance differently, leading to fragmentation and enforcement inconsistency.  
+  ✅ *ClearRoots offers:* Template-aligned documents that could reduce ambiguity and lower the enforcement burden.
+
+- **Sustainability Certifiers and Auditors (e.g., Rainforest Alliance, Ecocert)**  
+  📌 *Pain:* Reviewing unstructured, unverifiable compliance data is time-consuming and inconsistent.  
+  ✅ *ClearRoots offers:* A standardized, digital dossier system that accelerates audit cycles and improves traceability confidence.
+
+- **Third-Party Logistics Providers (3PLs)**  
+  📌 *Pain:* They often move product but don’t have traceable access to origin-level compliance documents.  
+  ✅ *ClearRoots offers:* A way to integrate compliance verification into the physical movement of goods.
+
+- **Sustainability Insurers and ESG Investors**  
+  📌 *Pain:* No insurable, verifiable ESG baseline exists for smallholder sourcing.  
+  ✅ *ClearRoots offers:* Trusted data that enables compliance-backed risk products and impact-linked funding models.
+
+- **NGOs and Development Organizations**  
+  📌 *Pain:* Support smallholders on livelihoods, but lack tools to help them meet evolving legal trade standards.  
+  ✅ *ClearRoots offers:* A free or subsidized toolset they can distribute to build legal, market, and financial inclusion.
+
+- **Academic Institutions (e.g., Windesheim UAS, SCF Nice)**  
+  📌 *Pain:* Need applied research opportunities that engage EU law, supply chain digitalization, and rural equity.  
+  ✅ *ClearRoots offers:* A scalable research and impact platform with policy relevance and implementation potential.
+
+- **National Port and Customs Authorities (EU Member States)**  
+  📌 *Pain:* Tasked with verifying incoming goods meet sustainability and due diligence requirements, but face inconsistent paperwork formats, unverifiable claims, and rising audit complexity — especially for high-risk commodities like coffee, cocoa, and timber.  
+  ✅ *ClearRoots offers:* A standardized, digital compliance dossier that aligns with EU legal requirements and provides traceability from first mile to point of entry — streamlining customs review and reducing risk of wrongful clearance or delays.
+
+``` mermaid
+graph LR
+    subgraph High Influence
+        A[EU Institutions - DG FISMA, DG TRADE]
+        B[National Regulatory Agencies]
+        C[Port and Customs Authorities]
+        D[Sustainability Insurers]
+    end
+
+    subgraph Low Influence
+        E[Smallholder Farmers]
+        F[Local Cooperatives]
+        G[NGOs and Dev Orgs]
+        H[Academic Institutions]
+    end
+
+    subgraph High Interest
+        I[EU SME Importers]
+        J[Middlemen and Export Agents]
+        K[Retail Roasters and Brands]
+        L[Auditors and Certifiers]
+    end
+
+    subgraph Low Interest
+        M[Third Party Logistics Providers]
+        N[General Public]
+    end
+
+    style A fill:#ffd700
+    style B fill:#ffd700
+    style C fill:#ffd700
+    style D fill:#ffd700
+    style I fill:#90ee90
+    style J fill:#90ee90
+    style K fill:#90ee90
+    style L fill:#90ee90
+    style E fill:#87cefa
+    style F fill:#87cefa
+    style G fill:#87cefa
+    style H fill:#87cefa
+    style M fill:#d3d3d3
+    style N fill:#d3d3d3
+
+```
 
 ## 🔗 Technical Architecture Overview
 
