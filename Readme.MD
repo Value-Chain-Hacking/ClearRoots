@@ -775,3 +775,73 @@ We’re inviting:
 
 **Let’s make compliance honest — and inclusive.**
 
+# 📊 ClearRoots Pitch Deck  
+*Built using the 3-Minute Rule by Brant Pinvidic*
+
+---
+
+## Slide 1: Title
+
+**ClearRoots**  
+*AI-Assisted, Blockchain-Backed Compliance for Ethical Trade*
+
+Helping smallholder farmers and EU importers meet sustainability laws — without exclusion, fraud, or bureaucracy.
+
+---
+
+## Slide 2: What Is It?
+
+**A digital documentation and assurance system** for smallholder supply chains, starting with African coffee.
+
+ClearRoots enables farmers and SME importers to comply with new EU regulations (CSRD, CSDDD, EUDR) — using mobile forms, blockchain logging, and AI-assisted reporting.
+
+---
+
+## Slide 3: How Does It Work?
+
+- Farmers or cooperatives enter key data via mobile or voice.
+- All entries are stored on a blockchain ledger (AgUnity) for auditability.
+- AI helps complete required EU forms using verified transaction records, GPS, and satellite data.
+- Importers receive a full compliance dossier — printable, auditable, and legally aligned.
+
+---
+
+## Slide 4: Are You Sure?
+
+- Pilots begin with real cooperatives in Cameroon and Ethiopia.
+- Built on AgUnity’s infrastructure, already deployed to over 60,000 farmers.
+- Legal validation and template design led by Windesheim UAS and SCF Nice.
+- Audit trail and document logic mapped directly to EU legal text.
+
+---
+
+## Slide 5: Can You Do It?
+
+✅ Yes.  
+The tech exists, the field partners are engaged, and the platform is modular.
+
+We start with coffee. We expand to cocoa, cashew, and timber.  
+We align with both EU compliance law and first-mile realities.
+
+---
+
+## Slide 6: Should I Care?
+
+Because without this system:
+- EU importers will abandon smallholders to avoid fines.
+- Farmers will fabricate paperwork or be excluded entirely.
+- “Sustainable trade” becomes paperwork theater — not real impact.
+
+**With ClearRoots, doing the right thing becomes provable, affordable, and scalable.**
+
+---
+
+## Slide 7: Ask
+
+We’re inviting:
+- **Windesheim** to co-lead research and documentation validation
+- **SME importers** to join the pilot phase
+- **Funders** to support scalable rollout
+
+**Let’s make compliance honest — and inclusive.**
+
