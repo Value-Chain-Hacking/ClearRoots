@@ -7,7 +7,6 @@ ClearRoots Assurance
 ## 🔍 Executive Summary
 [Brief overview: what the project is, the problem it solves, who it's for, and what makes it unique.]
 
----
 
 ## 🎯 Objectives
 
@@ -24,7 +23,6 @@ ClearRoots Assurance
   Launch a pilot assurance service that packages verified compliance data into auditable reports, reducing legal and reputational risk for at least 5 SME coffee importers by Q2 2026.
 
 
----
 
 ## 🚨 Problem Statement
 
